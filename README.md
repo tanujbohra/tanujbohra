@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
   <a href="https://stackoverflow.com/users/13790266/tanujbohra?tab=profile">
-    <img src="https://www.google.com/search?q=codechef+badge+logo+png&rlz=1C5CHFA_enIN958IN960&sxsrf=ALeKk03Xt5IhxgaOTaWJvdgEdz5Kg4q91w:1626617763531&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjS0euv5-zxAhWaILcAHXy4DB8Q_AUoAXoECAEQAw&biw=1440&bih=821#imgrc=uv2O9HcrNJx2vM"/>
+    <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb"/>
   </a>
   <a href="https://leetcode.com/tanujbohra/">
     <img src="https://img.shields.io/badge/-Leetcode-yellow?style=flat-square&logo=Leetcode&logoColor=white"/>
