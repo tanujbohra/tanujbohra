@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 <p align="center">
 
    <a href="https://www.linkedin.com/in/tanujbohra/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" width="30" height="20"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" width="100" height="20"/>
   </a>
   <a href="https://stackoverflow.com/users/13790266/tanujbohra?tab=profile">
-    <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" width="30" height="20"/>
+    <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" width="100" height="20"/>
   </a>
   <a href="https://leetcode.com/tanujbohra/">
-    <img src="https://img.shields.io/badge/-Leetcode-yellow?style=flat-square&logo=Leetcode&logoColor=white" width="30" height="20"/>
+    <img src="https://img.shields.io/badge/-Leetcode-yellow?style=flat-square&logo=Leetcode&logoColor=white" width="100" height="20"/>
   
 </p>
 
