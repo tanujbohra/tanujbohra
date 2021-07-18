@@ -26,9 +26,11 @@ Here are some ideas to get you started:
    <a href="https://www.linkedin.com/in/tanujbohra/">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
   </a>
-  <a href="https://stackoverflow.com/users/13790266/tanujbohra?tab=profile">
-    <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" width="50" height="20"/>
+   
+  <a href="https://www.codechef.com/users/tanujbohra">
+    <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" width="60" height="20"/>
   </a>
+   
   <a href="https://leetcode.com/tanujbohra/">
     <img src="https://img.shields.io/badge/-Leetcode-yellow?style=flat-square&logo=Leetcode&logoColor=white"/>
   
