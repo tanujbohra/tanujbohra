@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   </a>
    
   <a href="https://www.codechef.com/users/tanujbohra">
-    <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" width="60" height="20"/>
+    <img src="https://static.startuptalky.com/2021/04/codechef-logo-startuptalky.jpg" width="60" height="20"/>
   </a>
    
   <a href="https://leetcode.com/tanujbohra/">
