@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 ### These are some stats about my github profile ⚡:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=tanujbohra&theme=highcontrast&show_icons=true&count_private=true)
 
-### These are some more stats about my github profile ⚡:
+### These are some of the most used languages in my github profile ⚡:
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=tanujbohra)
 
