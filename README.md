@@ -1,4 +1,4 @@
-### Hi there I am Tanuj Bohra 👋
+![alt text](https://github.com/tanujbohra/tanujbohra/blob/main/Hi%20I%20am%20Tanuj%20Bohra.gif)
 
 <!--
 **tanujbohra/tanujbohra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### These are some stats about my github profile ✨ :
-![Github stats](https://github-readme-stats.vercel.app/api?username=tanujbohra&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=tanujbohra&theme=highcontrast&show_icons=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanujbohra&layout=compact)](https://github.com/tanujbohra/github-readme-stats)
+
 
 ### These are some of the most used languages in my github profile 🔭 :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanujbohra&layout=compact)](https://github.com/tanujbohra/github-readme-stats)
 
 
 
-![alt text](https://github.com/tanujbohra/tanujbohra/blob/main/Hi%20I%20am%20Tanuj%20Bohra.gif)
 
 
 <p align="center">
