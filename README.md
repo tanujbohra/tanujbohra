@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### These are some stats about my github profile 🔭 :
-![Github stats](https://github-readme-stats.vercel.app/api?username=tanujbohra&theme=highcontrast&show_icons=true&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanujbohra&layout=compact)](https://github.com/tanujbohra/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=tanujbohra&theme=highcontrast&show_icons=true&count_private=true)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanujbohra&layout=compact)](https://github.com/tanujbohra/github-readme-stats)
 
 <p align="center">
 
