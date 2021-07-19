@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanujbohra&layout=compact)](https://github.com/tanujbohra/github-readme-stats)
 
 
+
+![alt text](https://github.com/tanujbohra/tanujbohra/blob/main/Hi%20I%20am%20Tanuj%20Bohra.gif)
+
+
 <p align="center">
 
    <a href="https://www.linkedin.com/in/tanujbohra/">
